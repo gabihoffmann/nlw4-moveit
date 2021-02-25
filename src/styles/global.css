@@ -9,6 +9,8 @@
   --green: #4cd62b;
   --blue: #4953b8;
   --blue-shadow: #5965e0;
+  --gray-border: #d7d8da;
+  --white-border: #f0f1f3;
 }
 * {
   margin: 0;
